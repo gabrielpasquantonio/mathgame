@@ -3,4 +3,4 @@
 
 
 
-<img src="./main1.png" />
+<img src="./main.png" />
